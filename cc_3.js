@@ -15,3 +15,4 @@ const carTwo = new car(Mercedes,95 km/h)
 
  //Step 2
  //Implement an accelerate method in the car class that increases the car's speed and logs the new speed to the console
+function calcTip(car){this.speed(+10); return 'the $${make} accelerated to $${speed}'.}
