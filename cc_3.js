@@ -10,5 +10,5 @@ class car{
 
  //Step 2
  //Implement an accelerate method in the car class that increases the car's speed and logs the new speed to the console
-accelerate() {this.speed +=10; console.log('New Spees: $ {this.speed} km/h');}
+accelerate() {this.speed +=10; console.log('New Speed: $ {this.speed} km/h');}
 }
