@@ -21,4 +21,14 @@ class Car {
         {this.speed} km/h `);
 
     }
+    //Step 4
+
+  
+
+
+
+
+
+
+
 }
